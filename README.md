@@ -10,3 +10,7 @@ Tienes dos opciones:
 2. Crear un fichero HTML. Añadir el script mediante la etiqueta \<script> en un fichero HTML
 y visualizar el resultado en la consola.
 
+## Solución
+
+La solución de los ejercicios con comentarios se puede ver en la rama "solución".
+
