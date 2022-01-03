@@ -8,7 +8,7 @@ let apellido = "Max";
 let presentacion = "";
 
 /**
- * Pregunta 1: ¿Qué valor tengo que asignar a 'nombreCompleto' para que me muestre pantalla:
+ * Pregunta 1: ¿Qué valor tengo que asignar a 'presenetacion' para que me muestre pantalla:
  *   * "Me llamo Mad Max?"
  *
  * 
