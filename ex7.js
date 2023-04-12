@@ -15,5 +15,5 @@ let numJuguetes = 5;
 let numHorasSueño = 16;
 let jugandoAhora = "pelota";
 
-let historiaGato; // modificar solamente  esta línea
+let historiaGato = ` Mi gato se llama ${nombreGato}, tiene ${edadGato} años y pesa ${pesoGato} kilos. Es de ${colorGato}y tiene una personalidad ${personalidadGato} y su comida favorita es ${comidaFavorita}y tiene ${numJuguetes}jugetes y duerme casi ${numHorasSueño}horas ahora esta jugando con ${jugandoAhora}.`;
 console.log(historiaGato);
